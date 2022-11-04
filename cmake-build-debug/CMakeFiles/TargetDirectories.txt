@@ -1,0 +1,3 @@
+C:/Users/Max/CLionProjects/Aufgabe_Streams_Namespace/cmake-build-debug/CMakeFiles/Aufgabe_Streams_Namespace.dir
+C:/Users/Max/CLionProjects/Aufgabe_Streams_Namespace/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Max/CLionProjects/Aufgabe_Streams_Namespace/cmake-build-debug/CMakeFiles/rebuild_cache.dir
